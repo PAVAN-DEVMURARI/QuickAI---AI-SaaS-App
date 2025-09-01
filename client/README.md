@@ -31,7 +31,7 @@ git commit -m "feat: work done on $(Get-Date -Format 'yyyy-MM-dd') – navbar fi
 git remote -v
 
 # (If remote not set, add it — replace URL with your repo)
-# git remote add origin https://github.com/PAVAN-DEVMURARI/QuickAI---AI-SaaS-App.git
+git remote add origin https://github.com/PAVAN-DEVMURARI/QuickAI---AI-SaaS-App.git
 
 # 6. Push to existing main branch
 git push origin main
